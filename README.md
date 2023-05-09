@@ -1,2 +1,2 @@
 # SnakeGame
-This is a simple SnakeGame , pls make this project more magnificent by adding extra css.
+This is a simple SnakeGame , it would be great if you contribute to this project 
